@@ -1,1 +1,1 @@
-python2 proxy.txt
+python2 proxy.py
